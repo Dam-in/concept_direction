@@ -1,5 +1,7 @@
 # **KCC XAI Workshop 2026 (Spotlight)**
-## Discovering generalizable concept directions in diffusion models **without text supervision**.
+
+Title: Discovering generalizable concept directions in diffusion models **without text supervision**.
+Author: **Damin Lee**, Sehyun Lee, Jaesik Choi
 
 <img width="1885" height="584" alt="image" src="https://github.com/user-attachments/assets/53ea7fa8-d831-4fb8-9ee4-958b5b01458a" />
 
