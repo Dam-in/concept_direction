@@ -21,4 +21,4 @@
 3. 결과: `analysis/results/{concept}/`
 
 ## Poster
-[KCC_poster_damin.pdf](https://github.com/user-attachments/files/29503288/KCC_poster_damin.pdf)
+<img width="850" height="1132" alt="image" src="https://github.com/user-attachments/assets/587bc474-6592-4232-a432-ec2a16bcf65d" />
