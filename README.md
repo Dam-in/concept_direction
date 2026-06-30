@@ -1,7 +1,6 @@
 # **KCC XAI Workshop 2026 (Spotlight)**
 
-Title: Discovering generalizable concept directions in diffusion models **without text supervision**.
-
+Title: Discovering generalizable concept directions in diffusion models **without text supervision**.  
 Author: **Damin Lee**, Sehyun Lee, Jaesik Choi
 
 
@@ -17,7 +16,7 @@ Author: **Damin Lee**, Sehyun Lee, Jaesik Choi
 2. 노트북 순서대로 실행:
    - `01_extract_activation` → 데이터 생성
    - `02_load_and_analyze` → W2/b2, hyperplane
-   - `03_neuron_selection` → plane 선택, coherence
+   - `03_neuron_selection` → plane 선택, coherence (생략 후 수동 지정 가능)
    - `04_injection_single` / `05_injection_multi` → steering
 3. 결과: `analysis/results/{concept}/`
 
