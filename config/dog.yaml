@@ -1,0 +1,17 @@
+concept: dog
+prompts:
+  - "a photo of a {concept}"
+
+num_images_per_prompt: 100
+seed_base: 1000
+
+target_block: up_blocks.1.attentions.1.transformer_blocks.0.ff.net.0
+inject_block: up_blocks.1
+
+num_inference_steps: 50
+capture_step: 10
+guidance_scale: 7.5
+negative_prompt: ""
+eta: 0.0
+
+data_root: /project/dam/data
