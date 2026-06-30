@@ -1,6 +1,7 @@
 # Concept Direction
 
 Discovering generalizable concept directions in diffusion models **without text supervision**.
+**KCC XAI Workshop 2026, Spotlight**
 
 <img width="1885" height="584" alt="image" src="https://github.com/user-attachments/assets/53ea7fa8-d831-4fb8-9ee4-958b5b01458a" />
 
